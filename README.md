@@ -11,7 +11,7 @@
             <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
         </a>
     </div>
-    <img src="https://komarev.com/ghpvc/?username=sakib2439&style=flat-square&color=blue" alt=""/>
+    <img src="https://komarev.com/ghpvc/?username=sai-wtag&style=flat-square&color=blue" alt=""/>
     <h1>
   hey there
         <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -29,9 +29,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 -   :seedling: Exploring Technical Content Writing.
 
--   :zap: In my free time, I solve problems on Leetcode and read tech articles.
+-   :zap: At free time, I solve problems on Leetcode and read tech articles.
 
--   :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Asiful Islam Sakib-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sakib2439/)
+-   :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-SAKIB-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sakib2439/)
 
 ---
 
